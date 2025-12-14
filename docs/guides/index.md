@@ -9,6 +9,7 @@ This section contains detailed guides for working with Atomic Agents.
 quickstart
 basic_concepts
 tools
+repo_analysis_prompt
 advanced_usage
 ```
 
